@@ -1,1 +1,36 @@
-[]
+[
+	{
+		"names": [
+			"macro_dquotes"
+		],
+		"description": "macro_dquotes",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	},
+	{
+		"names": [
+			"micro_c_Screenshot"
+		],
+		"description": "micro_c_Screenshot",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
