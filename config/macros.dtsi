@@ -2,7 +2,7 @@ macro_c_showwindows: macro_c_showwindows{
 compatible = "zmk,behavior-macro";
 label = "macro_c_showwindows";
 #binding-cells = <0>;
-bindings = <&kp RIGHT_WIN>, <&kp TAB>;
+bindings = <&kp RWIN>, <&kp TAB>;
 };
 macro_c_unlock: macro_c_unlock{
 compatible = "zmk,behavior-macro";
