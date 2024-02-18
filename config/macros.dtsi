@@ -2,7 +2,7 @@ macro_c_showwins: macro_c_showwins{
 compatible = "zmk,behavior-macro";
 label = "macro_c_showwins";
 #binding-cells = <0>;
-bindings = <&kp LC(LG(SPACE))>;
+bindings = <&kp LC(LG(HOME))>;
 };
 macro_c_hosttid: macro_c_hosttid{
 compatible = "zmk,behavior-macro";
