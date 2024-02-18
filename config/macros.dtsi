@@ -1,20 +1,8 @@
-macro_c_showwindows: macro_c_showwindows{
-compatible = "zmk,behavior-macro";
-label = "macro_c_showwindows";
-#binding-cells = <0>;
-bindings = <&kp RWIN>, <&kp TAB>;
-};
 macro_c_unlock: macro_c_unlock{
 compatible = "zmk,behavior-macro";
 label = "macro_c_unlock";
 #binding-cells = <0>;
-bindings = <&kp LCTRL>, <&kp LEFT_ALT>, <&kp DELETE>;
-};
-macro_c_screenshot: macro_c_screenshot{
-compatible = "zmk,behavior-macro";
-label = "macro_c_screenshot";
-#binding-cells = <0>;
-bindings = <&kp LEFT_WIN>, <&kp LEFT_SHIFT>, <&kp S>;
+bindings = <&mt LCTRL LEFT_ALT>, <&kp DELETE>;
 };
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
