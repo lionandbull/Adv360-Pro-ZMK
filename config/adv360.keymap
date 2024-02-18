@@ -37,7 +37,7 @@
 
     // Home row mods
     #define _SHOWWINS  &kp LG(TAB)        // Show all windows
-    #define _HILTWIN  &kp LG(ALT(HOME))  // Highlight current Windows
+    #define _HILTWIN  &kp LG(LALT(HOME))  // Highlight current Windows
 
     keymap {
         compatible = "zmk,keymap";
